@@ -1,7 +1,23 @@
 {
-  "name": "saas-landing-page",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@kiongosss/saas-landing-kit",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A modern, responsive SaaS landing page template built with Next.js and Tailwind CSS",
+  "keywords": ["saas", "landing page", "next.js", "tailwind", "template"],
+  "homepage": "https://github.com/kiongosss/saas-landing-kit#readme",
+  "bugs": {
+    "url": "https://github.com/kiongosss/saas-landing-kit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiongosss/saas-landing-kit.git"
+  },
+  "license": "MIT",
+  "author": "KaseeMoka <kiongosss@github.com> (https://github.com/kiongosss)",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
